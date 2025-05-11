@@ -1,2 +1,52 @@
-31-05-2021
-fix for preloader issue sometimes not hide on mobile
+# 👗 Studio-99 – Custom Layout Showcase Website
+
+**Studio-99** is a modern fashion and freelance photography website built to demonstrate how **custom web page layouts** can be effectively designed using **HTML, CSS, JavaScript, and PHP**. It connects **customers with freelance photographers and fashion artists**, providing a visually rich and highly customizable user experience.
+
+This project serves as both a real-world service platform and a design showcase for advanced, modular layout strategies.
+
+---
+
+## 🎯 Purpose
+
+- Showcase dynamic **multi-section page layouts**
+- Highlight **reusable components** across pages
+- Implement **HTML + CSS frameworks** from scratch without relying on external libraries
+- Demonstrate **server-side handling** and form integration using PHP
+
+---
+
+## 🧰 Tech Stack
+
+### 🔹 Frontend
+- HTML5
+- CSS3 (Flexbox + Grid)
+- JavaScript (Vanilla)
+
+### 🔹 Backend
+- PHP (for server-side rendering and form handling)
+
+---
+
+## 📸 Features
+
+- 🖼️ Multiple responsive layout designs
+- 👤 Freelancer and artist profiles
+- 📩 Contact and booking forms (handled via PHP)
+- 🔍 Explore and filter featured portfolios
+- 📱 Fully responsive design for only desktop
+- 🔄 Reusable layout blocks and clean code structure
+
+---
+
+---
+
+## 💻 How to Run Locally
+
+> Requires PHP installed on your machine.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mohammed-Saif-07/Studio-99.git
+   cd Studio-99
+
+
